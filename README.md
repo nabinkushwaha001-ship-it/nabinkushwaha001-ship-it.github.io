@@ -5,5 +5,6 @@ nabinwebpages
 * Qualification (bacholer in Computer Science runing, +2 in Computer Science)
 * Nearest Friend(Prince Singh, Subash Singh, Amlesh Gupta, Rahul Chaudhary, Sujan Kunwar, Sudip Kunwar, Bishnuchand Thakuri)
 
-* 
+
+
 ![image](IMG_2017.JPG) 
